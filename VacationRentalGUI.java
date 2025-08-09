@@ -26,7 +26,7 @@ public class VacationRentalGUI extends JFrame
         "Serene luxury among the soft dunes of the Dubai desert."
     };
     private String[] vacayImagePaths = 
-    {
+    { 
         "Images/Disney.jpg",
         "Images/Savannah.jpg",
         "Images/Mountains2.jpg",
